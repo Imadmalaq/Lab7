@@ -7,12 +7,14 @@ public class ResidentialSite extends Site{
         _rate = 3.5;
     }
 
-    private double getTaxAmount(double base, double taxRate) {
+    @Override
+    protected double getTaxAmount(double base, double taxRate) {
         double tax = getBaseAmount(base, taxRate);
         return tax;
     }
 
-    private double getBaseAmount(double _units, double _rate) {
+    @Override
+    protected double getBaseAmount(double _units, double _rate) {
         double base = _units * _rate;
         return base;
     }

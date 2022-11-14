@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864d3f28-20fc-4c64-877c-3a86a0a167c0" name="Changes" comment="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="864d3f28-20fc-4c64-877c-3a86a0a167c0" name="Changes" comment="Deleted the getBillableAmount from ResidentialSite and LifelineSite classes">
       <change beforePath="$PROJECT_DIR$/src/LifelineSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifelineSite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ResidentialSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResidentialSite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668458300110</updated>
-      <workItem from="1668458304249" duration="4027000" />
+      <workItem from="1668458304249" duration="4465000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the initial version">
       <created>1668465427698</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668467388861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deleted the getBillableAmount from ResidentialSite and LifelineSite classes">
+      <created>1668467857333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467857333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +103,7 @@
     <MESSAGE value="Creating the initial version" />
     <MESSAGE value="Extracted Method Dialog using Ctrl+Alt+M for the ResidentialSite Class" />
     <MESSAGE value="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class" />
+    <MESSAGE value="Deleted the getBillableAmount from ResidentialSite and LifelineSite classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted the getBillableAmount from ResidentialSite and LifelineSite classes" />
   </component>
 </project>

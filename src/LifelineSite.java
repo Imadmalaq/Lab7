@@ -6,13 +6,16 @@ public class LifelineSite extends Site{
         _units = 5.0;
         _rate = 3.5;
     }
-    private double getTaxAmount(double base, double taxRate, double x) {
-        double tax = getBaseAmount(base, taxRate, x);
+
+    @Override
+    protected double getTaxAmount(double base, double taxRate) {
+        double tax = getBaseAmount(base, taxRate);
         return tax;
     }
 
-    private double getBaseAmount(double _units, double _rate, double x) {
-        double base = _units * _rate * x;
+    @Override
+    protected double getBaseAmount(double _units, double _rate) {
+        double base = _units * _rate * 0.2;
         return base;
     }
 }

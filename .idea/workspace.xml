@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864d3f28-20fc-4c64-877c-3a86a0a167c0" name="Changes" comment="Creating the initial version">
+    <list default="true" id="864d3f28-20fc-4c64-877c-3a86a0a167c0" name="Changes" comment="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LifelineSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifelineSite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ResidentialSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResidentialSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668458300110</updated>
-      <workItem from="1668458304249" duration="3378000" />
+      <workItem from="1668458304249" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the initial version">
       <created>1668465427698</created>
@@ -60,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668465427698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Extracted Method Dialog using Ctrl+Alt+M for the ResidentialSite Class">
+      <created>1668467267527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467267527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class">
+      <created>1668467388861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467388861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating the initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the initial version" />
+    <MESSAGE value="Extracted Method Dialog using Ctrl+Alt+M for the ResidentialSite Class" />
+    <MESSAGE value="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extracted Method Dialog using Ctrl+Alt+M for the LifelineSite Class" />
   </component>
 </project>
